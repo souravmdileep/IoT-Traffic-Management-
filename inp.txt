@@ -1,0 +1,3 @@
+An ambulance has reached signal2 at segment4
+A car is arriving at signal3 on segment5
+A car is arriving at signal1 on segment1

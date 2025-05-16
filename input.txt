@@ -1,0 +1,3 @@
+A car is arriving at signal1 on segment1
+A car is arriving at signal3 on segment5
+A car has reached segment3 at signal4
